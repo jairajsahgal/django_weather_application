@@ -10,4 +10,4 @@ This is a simple django application that can be installed on local machine by ru
 * To deploy on heroku.
 
 # Output
-![image](https://user-images.githubusercontent.com/31172501/138611941-cb0c2e27-eee5-42a9-bac9-cd36d6146cdf.png)
+![output_image](https://user-images.githubusercontent.com/31172501/138611941-cb0c2e27-eee5-42a9-bac9-cd36d6146cdf.png)
